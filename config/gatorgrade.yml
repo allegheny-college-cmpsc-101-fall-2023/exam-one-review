@@ -1,4 +1,4 @@
-- study/q_01.md:
+- study/study_01.py:
     - description: Ensure that study_01.py file exists in the study directory
       check: ConfirmFileExists
     - description: Complete all TODOs and remove the TODO markers for study_01.py
