@@ -1,0 +1,14 @@
+- questions/q_01.md:
+    - description: Ensure that study_01.py file exists in the questions directory
+      check: ConfirmFileExists
+    - description: Complete all TODOs and remove the TODO markers for study_01.py
+      check: MatchFileFragment
+      options:
+        fragment: TODO
+        count: 0
+        exact: true
+
+- description: Have at least 4 commits in repository
+  check: CountCommits
+  options:
+    count: 4
