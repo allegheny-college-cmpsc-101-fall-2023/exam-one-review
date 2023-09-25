@@ -1,5 +1,5 @@
-- questions/q_01.md:
-    - description: Ensure that study_01.py file exists in the questions directory
+- study/q_01.md:
+    - description: Ensure that study_01.py file exists in the study directory
       check: ConfirmFileExists
     - description: Complete all TODOs and remove the TODO markers for study_01.py
       check: MatchFileFragment
