@@ -85,5 +85,4 @@ See the
 for links to notes taken in class.
 
 Notes that are saved locally on you computer may be referenced on the exam.
-Therefore, be sure to save what you need locally before the exam date.
 Colab files can be downloaded as .py and .ipynb and viewed in VS Code.
